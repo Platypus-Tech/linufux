@@ -1583,4 +1583,5 @@ static noinline void __init kernel_init_freeable(void)
 	 */
 
 	integrity_load_keys();
+	pr_info("Hi hi hi hi hi sup sup sup am I annoying yet :D");
 }
