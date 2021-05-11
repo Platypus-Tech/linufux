@@ -145,7 +145,7 @@
  * Better audit of register_blkdev.
  */
 
-#define REALLY_SLOW_IO
+#define REALLY_SLOW_IO /* OH HAHAHAHAHAHAHAHAHA xD */
 
 #define DEBUGT 2
 
