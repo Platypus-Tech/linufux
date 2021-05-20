@@ -10,7 +10,7 @@
 #include <linux/time.h>
 #include <linux/timex.h>
 #include <vdso/jiffies.h>
-#include <asm/param.h>			/* for HZ */
+#include <asm-generic/param.h>			/* for HZ */
 #include <generated/timeconst.h>
 
 /*
