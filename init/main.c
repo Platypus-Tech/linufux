@@ -1584,7 +1584,7 @@ static noinline void __init kernel_init_freeable(void)
 
 	integrity_load_keys();
 	int annoying;
-	for (annoying = 1, annoying = 10, annoying++){
+	for (annoying = 1, annoying = 1000, annoying++){
 		pr_info("Hi hi hi hi hi sup sup sup am I annoying yet :D\n");
 	}
 }
